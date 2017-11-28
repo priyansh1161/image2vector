@@ -1,8 +1,8 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-svg2android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1061)
-svg2android
+img2vector
 ===========
 
-*Convert SVG to Android VectorDrawable XML resource file.*
+*Convert image or SVG to Android VectorDrawable XML resource file.*
 
 Extracts all parameters of elements and groups that are supported in Android. 
 
